@@ -78,19 +78,20 @@ export const experience = [
 
 export const projects = [
   {
+    name: "PrintMesh",
+    tagline:
+      "Peer-to-peer marketplace connecting people who need a part with nearby 3D printer owners.",
+    stack: ["Next.js 16", "Supabase", "Three.js", "TanStack"],
+    href: "https://printlink-blr.vercel.app/",
+    note: "In progress",
+  },
+  {
     name: "QPForge",
     tagline:
       "AI question paper generator for schools and coaching institutes — upload a syllabus and past papers, get a formatted, print-ready exam.",
     stack: ["LLMs", "RAG", "PDF · DOCX Export"],
     href: "https://www.qpforge.com/",
     note: "Live · SaaS",
-  },
-  {
-    name: "Findex",
-    tagline: "Financial data discovery and indexing platform.",
-    stack: ["Next.js", "Node.js", "MongoDB"],
-    href: null,
-    note: null,
   },
   {
     name: "Tripa Thrills",
@@ -100,12 +101,11 @@ export const projects = [
     note: "@tripa_thrills",
   },
   {
-    name: "PrintMesh",
-    tagline:
-      "Peer-to-peer marketplace connecting people who need a part with nearby 3D printer owners.",
-    stack: ["Next.js 16", "Supabase", "Three.js", "TanStack"],
-    href: "https://printlink-blr.vercel.app/",
-    note: "In progress",
+    name: "Findex",
+    tagline: "Financial data discovery and indexing platform.",
+    stack: ["Next.js", "Node.js", "MongoDB"],
+    href: null,
+    note: null,
   },
   {
     name: "AI Video Editing Pipeline",
