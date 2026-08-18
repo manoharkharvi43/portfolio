@@ -78,6 +78,14 @@ export const experience = [
 
 export const projects = [
   {
+    name: "QPForge",
+    tagline:
+      "AI question paper generator for schools and coaching institutes — upload a syllabus and past papers, get a formatted, print-ready exam.",
+    stack: ["LLMs", "RAG", "PDF · DOCX Export"],
+    href: "https://www.qpforge.com/",
+    note: "Live · SaaS",
+  },
+  {
     name: "Findex",
     tagline: "Financial data discovery and indexing platform.",
     stack: ["Next.js", "Node.js", "MongoDB"],
