@@ -82,7 +82,7 @@ export const projects = [
     tagline:
       "Peer-to-peer marketplace connecting people who need a part with nearby 3D printer owners.",
     stack: ["Next.js 16", "Supabase", "Three.js", "TanStack"],
-    href: "https://printlink-blr.vercel.app/",
+    href: "https://printmesh.online",
     note: "In progress",
   },
   {
