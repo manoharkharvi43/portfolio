@@ -1,7 +1,7 @@
 export const profile = {
   name: "Manohar Kharvi",
   role: "Full Stack Software Engineer",
-  years: "5.7 years",
+  years: "5 years",
   location: "Bengaluru, India",
   email: "manoharkharvi43@gmail.com",
   phone: "+91 90719 82083",
@@ -12,8 +12,8 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "5.7", label: "Years of\nexperience" },
-  { value: "4", label: "Companies\nshipped for" },
+  { value: "5", label: "Years of\nexperience" },
+  { value: "2", label: "Companies\nshipped for" },
   { value: "2", label: "SDKs published\nnpm · pub.dev" },
 ];
 
@@ -54,15 +54,6 @@ export const experience = [
     points: [
       "Shipped enterprise logistics features with React.js, TypeScript, and Redux.",
       "Built reusable UI components and frontend architecture patterns adopted team-wide.",
-    ],
-  },
-  {
-    company: "Lemonpay",
-    title: "Tech Lead",
-    period: "Jul 2024 — Jan 2025",
-    points: [
-      "Led Cube, a fintech payment platform processing high-volume pay-ins and payouts.",
-      "Architected event-driven microservices on Node.js, Kafka, Redis, and MongoDB.",
     ],
   },
   {
